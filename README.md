@@ -1,8 +1,10 @@
 # 2024Fall_AI_AIDT
 
-### 기타
-+ [App Link](https://huggingface.co/spaces/ejun123/ReadAloud)
-+ [App Link2](https://ejun123-ReadAloud.hf.space)
+## Markdown language
+
++ [Markdown](https://www.markdownguide.org)
+
+### Useful link
 + [QR code](https://mrkim21.github.io/appfolder/qrcode.html)
 + [Emoji](https://gist.github.com/rxaviers/7360908)
 
